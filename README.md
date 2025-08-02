@@ -40,3 +40,13 @@ A backend REST API application built using **Spring Boot**, **JWT Authentication
    ```bash
    git clone https://github.com/Shaad27s/delivery-partner-tracker.git
    cd delivery-partner-tracker
+
+   ## 🧾 License
+
+This project is open-source and free to use.
+
+---
+
+## 👤 Author
+
+Made by [Shaad27s](https://github.com/Shaad27s)
